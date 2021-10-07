@@ -8,7 +8,9 @@ Given various factors about the orbits in the form of independent variables, whi
 * Numpy
 * Matplotlib
 * Seaborn
-* Scikit-Learn
+* collections
+* Sk-learn
+* imblearn.over_sampling
 * Keras and Tensorflow
 
 ## Data
